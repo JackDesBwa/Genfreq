@@ -1,7 +1,6 @@
 -- VHDL Test Bench Created by ISE for module: top_level
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
-USE ieee.std_logic_unsigned.all;
 USE ieee.numeric_std.ALL;
  
 ENTITY uut_top_level IS

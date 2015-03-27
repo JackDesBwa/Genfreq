@@ -1,7 +1,7 @@
 -- VHDL Test Bench Created by ISE for module: usb_fifo_module
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
-USE ieee.std_logic_unsigned.all;
+USE IEEE.NUMERIC_STD.ALL;
  
 ENTITY uut_usb_fifo_module IS
 END uut_usb_fifo_module;
