@@ -82,7 +82,7 @@ BEGIN
    stim_proc: process
    begin		
       -- hold reset state for 100ms.
-      wait for 1ms;	
+      wait for 1 ms;	
       
       WAIT FOR clk_period / 2;
         
